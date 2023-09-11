@@ -1,4 +1,4 @@
-### <p style="text-align: center;">David Jennings</p>
+# David Jennings | Software Engineer
 
 
 
