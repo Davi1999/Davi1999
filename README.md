@@ -1,4 +1,4 @@
-# David Jennings | Software Engineer
+# David Jennings \| Software Engineer
 
 
 
