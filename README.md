@@ -14,5 +14,10 @@ Here are some things to know about me:
 - 📫 How to reach me:
   - 📧 davidjjennings99@gmail.com
   - 🔗 [LinkedIn](https://www.linkedin.com/in/david-jennings-1a3997191/)
+- 📱 Socials/Online Profiles:
+  - 📷 [Instagram](https://www.instagram.com/davidjennings99/)
+  - 🐦 [Twitter](https://twitter.com/TheNorphlet)
+  - 🧑🏻‍💻 [LeetCode](https://leetcode.com/Davi1999/)
+  - 📚 [Stack Overflow](https://stackoverflow.com/users/22467090/david-jennings)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have dual citizenship! Brazil 🇧🇷 and USA 🇺🇸
