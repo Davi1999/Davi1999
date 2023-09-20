@@ -19,5 +19,6 @@ Here are some things to know about me:
   - 🐦 [Twitter](https://twitter.com/TheNorphlet)
   - 🧑🏻‍💻 [LeetCode](https://leetcode.com/Davi1999/)
   - 📚 [Stack Overflow](https://stackoverflow.com/users/22467090/david-jennings)
+  - ⛵ [CodeSignal](https://app.codesignal.com/profile/davi1999)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have dual citizenship! Brazil 🇧🇷 and USA 🇺🇸
